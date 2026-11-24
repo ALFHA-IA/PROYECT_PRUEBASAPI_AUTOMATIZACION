@@ -1,4 +1,4 @@
-# Automatización API REST - Restful Booker
+# Automatización API REST - ALEXANDER URQUIAGA GUTIERREZ
 
 Proyecto de automatización de pruebas API REST utilizando **Java 21**, **Serenity BDD**, **Cucumber** y el patrón **Screenplay** sobre la API pública [Restful Booker](https://restful-booker.herokuapp.com).
 
